@@ -1,0 +1,5 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\EvenNum_App\EvenNum_App\bin\Debug\EvenNum_App.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\EvenNum_App\EvenNum_App\bin\Debug\EvenNum_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\EvenNum_App\EvenNum_App\bin\Debug\EvenNum_App.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\EvenNum_App\EvenNum_App\obj\Debug\EvenNum_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\EvenNum_App\EvenNum_App\obj\Debug\EvenNum_App.pdb

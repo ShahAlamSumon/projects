@@ -1,0 +1,5 @@
+E:\ASP.Net\Projects\Day 2\SummationOfPrimes_App\SummationOfPrimes_App\bin\Debug\SummationOfPrimes_App.exe.config
+E:\ASP.Net\Projects\Day 2\SummationOfPrimes_App\SummationOfPrimes_App\bin\Debug\SummationOfPrimes_App.exe
+E:\ASP.Net\Projects\Day 2\SummationOfPrimes_App\SummationOfPrimes_App\bin\Debug\SummationOfPrimes_App.pdb
+E:\ASP.Net\Projects\Day 2\SummationOfPrimes_App\SummationOfPrimes_App\obj\Debug\SummationOfPrimes_App.exe
+E:\ASP.Net\Projects\Day 2\SummationOfPrimes_App\SummationOfPrimes_App\obj\Debug\SummationOfPrimes_App.pdb

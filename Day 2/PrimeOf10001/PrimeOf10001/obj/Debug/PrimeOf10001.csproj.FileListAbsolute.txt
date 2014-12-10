@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\bin\Debug\PrimeOf10001.exe.config
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\obj\Debug\PrimeOf10001.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\bin\Debug\PrimeOf10001.exe
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\bin\Debug\PrimeOf10001.pdb
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\obj\Debug\PrimeOf10001.exe
+E:\ASP.Net\Projects\Day 1\PrimeOf10001\PrimeOf10001\obj\Debug\PrimeOf10001.pdb

@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\bin\Debug\PythagoreanTriple_App.exe.config
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\bin\Debug\PythagoreanTriple_App.exe
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\bin\Debug\PythagoreanTriple_App.pdb
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\obj\Debug\PythagoreanTriple_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\obj\Debug\PythagoreanTriple_App.exe
+E:\ASP.Net\Projects\Day 2\PythagoreanTriple_App\PythagoreanTriple_App\obj\Debug\PythagoreanTriple_App.pdb

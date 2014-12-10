@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\bin\Debug\SumSquare_App.exe.config
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\obj\Debug\SumSquare_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\bin\Debug\SumSquare_App.exe
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\bin\Debug\SumSquare_App.pdb
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\obj\Debug\SumSquare_App.exe
+E:\ASP.Net\Projects\Day 1\SumSquare_App\SumSquare_App\obj\Debug\SumSquare_App.pdb

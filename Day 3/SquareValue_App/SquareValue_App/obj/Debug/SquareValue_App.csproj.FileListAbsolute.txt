@@ -1,0 +1,9 @@
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\bin\Debug\SquareValue_App.exe.config
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\bin\Debug\SquareValue_App.exe
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\bin\Debug\SquareValue_App.pdb
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.Form1.resources
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.Properties.Resources.resources
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.csproj.GenerateResource.Cache
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.exe
+E:\ASP.Net\Projects\Day 3\SquareValue_App\SquareValue_App\obj\Debug\SquareValue_App.pdb

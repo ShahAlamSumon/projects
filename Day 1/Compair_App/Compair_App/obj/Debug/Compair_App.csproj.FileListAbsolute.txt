@@ -1,0 +1,5 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\Compair_App\Compair_App\bin\Debug\Compair_App.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\Compair_App\Compair_App\bin\Debug\Compair_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\Compair_App\Compair_App\bin\Debug\Compair_App.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\Compair_App\Compair_App\obj\Debug\Compair_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\Compair_App\Compair_App\obj\Debug\Compair_App.pdb

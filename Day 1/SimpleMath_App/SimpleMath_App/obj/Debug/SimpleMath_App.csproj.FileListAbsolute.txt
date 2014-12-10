@@ -1,0 +1,6 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\bin\Debug\SimpleMath_App.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\bin\Debug\SimpleMath_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\bin\Debug\SimpleMath_App.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\obj\Debug\SimpleMath_App.csprojResolveAssemblyReference.cache
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\obj\Debug\SimpleMath_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\SimpleMath_App\SimpleMath_App\obj\Debug\SimpleMath_App.pdb

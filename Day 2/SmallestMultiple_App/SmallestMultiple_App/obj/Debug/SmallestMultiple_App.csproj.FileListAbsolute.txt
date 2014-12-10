@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\bin\Debug\SmallestMultiple_App.exe.config
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\obj\Debug\SmallestMultiple_App.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\bin\Debug\SmallestMultiple_App.exe
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\bin\Debug\SmallestMultiple_App.pdb
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\obj\Debug\SmallestMultiple_App.exe
+E:\ASP.Net\Projects\Day 2\SmallestMultiple_App\SmallestMultiple_App\obj\Debug\SmallestMultiple_App.pdb

@@ -1,0 +1,5 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\FirstLoop_App\FirstLoop_App\bin\Debug\FirstLoop_App.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\FirstLoop_App\FirstLoop_App\bin\Debug\FirstLoop_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\FirstLoop_App\FirstLoop_App\bin\Debug\FirstLoop_App.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\FirstLoop_App\FirstLoop_App\obj\Debug\FirstLoop_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\FirstLoop_App\FirstLoop_App\obj\Debug\FirstLoop_App.pdb

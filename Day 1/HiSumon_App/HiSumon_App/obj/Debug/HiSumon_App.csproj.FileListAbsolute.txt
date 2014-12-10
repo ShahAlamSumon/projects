@@ -1,0 +1,5 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HiSumon_App\HiSumon_App\bin\Debug\HiSumon_App.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HiSumon_App\HiSumon_App\bin\Debug\HiSumon_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HiSumon_App\HiSumon_App\bin\Debug\HiSumon_App.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HiSumon_App\HiSumon_App\obj\Debug\HiSumon_App.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HiSumon_App\HiSumon_App\obj\Debug\HiSumon_App.pdb

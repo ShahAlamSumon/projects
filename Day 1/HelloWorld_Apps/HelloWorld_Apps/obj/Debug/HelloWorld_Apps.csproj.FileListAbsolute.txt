@@ -1,0 +1,5 @@
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HelloWorld_Apps\HelloWorld_Apps\bin\Debug\HelloWorld_Apps.exe.config
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HelloWorld_Apps\HelloWorld_Apps\bin\Debug\HelloWorld_Apps.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HelloWorld_Apps\HelloWorld_Apps\bin\Debug\HelloWorld_Apps.pdb
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HelloWorld_Apps\HelloWorld_Apps\obj\Debug\HelloWorld_Apps.exe
+C:\Users\FTFL-2\Documents\Visual Studio 2013\Projects\Day 1\HelloWorld_Apps\HelloWorld_Apps\obj\Debug\HelloWorld_Apps.pdb
